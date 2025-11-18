@@ -2,7 +2,7 @@
 
 # Sistema de Aluguel de Veículos
 
-**Equipe 2:** Lucas Viana, Antonio Victor, Miguel Gomes, Filipe Cristiam
+**Equipe 2:** Lucas Viana, Miguel Gomes, Filipe Cristiam
 
 ## 📋 Especificações Técnicas
 
